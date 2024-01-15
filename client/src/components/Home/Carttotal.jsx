@@ -3,7 +3,7 @@ import React from 'react'
 const Carttotal = () => {
   return (
     <div>
-      Totalcart
+      Totalcartd
     </div>
   )
 }
